@@ -8,7 +8,7 @@
 // @match        *://docs.google.com/spreadsheets/*
 // @match        *://docs.google.com/forms/*
 // @grant        GM_xmlhttpRequest
-// @require      https://raw.githubusercontent.com/Nopermc/Updateyeumoney/refs/heads/main/updateyeumoney.js
+// @require      https://raw.githubusercontent.com/Nopermc/yeumoneytuoicc/refs/heads/main/Yeumoneydellcotuoi.js
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @icon         https://thecard1s.shop/assets/storage/images/image_L45IE.png
